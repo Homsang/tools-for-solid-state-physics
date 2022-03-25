@@ -6,6 +6,8 @@ Here the specific method of calling the tool and some calculation examples are g
 
 C_60_ is a synthetic football shaped macromolecule composed of 60 carbon atoms. The crystal composed of C_60_ has an approximate fcc structure. When C_60_ crystal is doped with three K atoms to form K_3_C_60_, one K(1) atom is in the octahedral position and the other two K(2) atoms are in the tetrahedral position. K_3_C_60_ crystal can be approximately regarded as an ionic crystal composed of K^+^ ions and C_60_^3-^.
 
+![K3C60](Pictures/k3c60.png)
+
 The Madelung constants for three ions in K_3_C_60_ crystal using file `Madelung.py` is shown below.
 ```python
 from Madelung import Material
