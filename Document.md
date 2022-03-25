@@ -1,4 +1,4 @@
-# Introduction to the usage
+# A Brief Introduction
 
 Here the specific method of calling the tool and some calculation examples are given. Everyone can pick it up very quickly.
 
@@ -38,4 +38,10 @@ K3C60.add('K2',np.array([0.75,0.75,0.75]),1)
 
 # 使用方法计算马德隆常数
 print('C60:\t', K3C60.alpha(0), '\nK1:\t', K3C60.alpha(7), '\nK2:\t', K3C60.alpha(-1))
+```
+The results are as below.
+```
+C60:     42.60291890523868 
+K1:      -0.22047811795502253 
+K2:      7.210725543108959
 ```
