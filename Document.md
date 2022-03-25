@@ -8,6 +8,8 @@ C_60_ is a synthetic football shaped macromolecule composed of 60 carbon atoms. 
 
 The Madelung constants for three ions in K_3_C_60_ crystal using file `Madelung.py` is shown below.
 ```python
+from Madelung import Material
+
 # 实例化对象
 K3C60 = Material('K3C60')
 
