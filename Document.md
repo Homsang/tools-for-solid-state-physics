@@ -4,7 +4,7 @@ Here the specific method of calling the tool and some calculation examples are g
 
 ## Madelung constant
 
-C_60_ is a synthetic football shaped macromolecule composed of 60 carbon atoms. The crystal composed of C_60_ has an approximate fcc structure. When C_60_ crystal is doped with three K atoms to form K_3_C_60_, one K(1) atom is in the octahedral position and the other two K(2) atoms are in the tetrahedral position. K_3_C_60_ crystal can be approximately regarded as an ionic crystal composed of K^+^ ions and C_60_^3-^.
+C_60_ is a synthetic football shaped macromolecule composed of 60 carbon atoms. The crystal composed of C_60_ has an approximate fcc structure. When C_60_ crystal is doped with three K atoms to form K_3_C_60_, one K(1) atom is in the octahedral position and the other two K(2) atoms are in the tetrahedral position. K_3_C_60_ crystal can be approximately regarded as an ionic crystal composed of K^+^ ions and C_60_^3-^. And the reason we chose this as an example is that it covers almost all the common positions in solid state physics.
 
 ![K3C60](Pictures/k3c60.png)
 
