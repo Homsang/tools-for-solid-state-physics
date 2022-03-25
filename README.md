@@ -9,4 +9,4 @@ The developer of this project is an undergraduate student from the School of Phy
 If you are interested in this project, welcome to cooperate with me. Any comments or suggestions you may have will be highly valued. My email is [homsangcn@gmail.com](homsangcn@gmail.com). I believe we will gain more.
 
 Tools that have been developed include:
-- Calculation of crystal Madelung constant
+- Calculation of cubic crystal Madelung constant
